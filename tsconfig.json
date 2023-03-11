@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "noEmit": false,
+    "skipLibCheck": true,
+    "strict": true,
+    "noErrorTruncation": true,
+    "target": "es6",
+    "module": "CommonJS",
+    "declaration": true,
+    "inlineSources": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  },
+  "files": ["index.ts"]
+}
